@@ -10,14 +10,14 @@ Playlist: [PROGRAMACIÓN EN C](https://youtube.com/playlist?list=PLOZO8pPjjoHJW8
 
 - Navegamos a la carpeta del programa
 - Compilamos con:
-    ```cmd
+    ```bash
     gcc punteros.c -o punteros.exe
     ```
     - **-o**: Sirve para especificar el nombre del archivo ejecutable o de salida (output) 
 
 ### Ejecutar
 
-```cmd
+```bash
 ./punteros
 ```
 
