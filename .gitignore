@@ -1,0 +1,14 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+
+# IDE config files
+*.dev
+
+# Temp or auto-generated files
+*.layout
+
+# Windows Makefile
+Makefile.win
