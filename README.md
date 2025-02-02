@@ -12,7 +12,8 @@ Playlist: [PROGRAMACIÓN EN C](https://youtube.com/playlist?list=PLOZO8pPjjoHJW8
 - Compilamos con:
     ```cmd
     gcc punteros.c -o Punteros.exe
-    ``` 
+    ```
+    - **-o**: Sirve para especificar el nombre del archivo ejecutable o de salida (output) 
 
 ### Ejecutar
 
