@@ -26,3 +26,7 @@ Playlist: [PROGRAMACIÓN EN C](https://youtube.com/playlist?list=PLOZO8pPjjoHJW8
 - Windows 11
 - VS Code
 - MinGW
+
+## Otras explicaciones
+
+- `#include <stdio.h>`: **Standard Input/Output**, nos permite imprimir por consola.
